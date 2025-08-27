@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "id": 1,
+        "title": "Título de prueba",
+        "body": "Contenido de prueba",
+        "created_at": "2025-08-27 20:47:05"
+    },
+    {
+        "id": 2,
+        "title": "Título de prueba",
+        "body": "Contenido de prueba",
+        "created_at": "2025-08-27 20:47:05"
+    }
+]
