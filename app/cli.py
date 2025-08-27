@@ -1,6 +1,7 @@
 import sys
 from app.notes import add_note, list_notes, find_notes
 
+
 def main():
     if len(sys.argv) >= 2:
         command = sys.argv[1]
